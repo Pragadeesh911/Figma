@@ -32,10 +32,12 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
-## CODE:
+
 
 
 ## OUTPUT:
+![Screenshot 2025-05-12 112758](https://github.com/user-attachments/assets/35a2cfb9-e97e-432a-a5a3-8183a7d020cf)
+
 
 
 ## RESULT:
